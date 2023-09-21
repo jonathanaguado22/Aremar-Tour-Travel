@@ -28,6 +28,7 @@
     "@types/morgan": "^1.9.5",
     "@types/node": "^20.5.7",
     "@types/pg": "^8.10.2",
+    "@types/sequelize": "^4.28.15",
     "morgan": "^1.10.0",
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.1"
